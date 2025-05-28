@@ -5,7 +5,6 @@ main:
     conference_short: Bulletion of NSFC'25
     conference: Bulletion of National Natural Science Foundation of China <strong>(Bulletion of NSFC)</strong>, 2025.
     pdf: https://www.nsfc.gov.cn/csc/20345/20348/pdf/2025//202502-250-262.pdf
-    BibTex: ./_data/NSFC_25_bib.txt
     image: ./assets/img/NSFC_B_25.png
     
   - title: Prospective UAV-assisted Positioning Architecture and Technologies for 6G Network Edge
