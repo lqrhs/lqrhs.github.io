@@ -10,9 +10,35 @@ main:
     
 
   - title: "Prospective UAV-assisted Positioning Architecture and Technologies for 6G Network Edge"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    authors: <strong>Qirui Liu</strong>, Rongke Liu, Chenren Xu
     conference_short: MNET
     conference: IEEE Network <strong>(MNET)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/document/10806668
+    bibtex: _data/MNET_25_bib.txt
+    image: ./assets/img/MNET_25.png
+
+
+   - title: "Management of Positioning Functions in Cellular Networks for Time-Sensitive Transportation Applications"
+    authors: <strong>Qirui Liu</strong>, Rongke Liu, Yang Zhang, Yanli Yuan, Zijie Wang, Haolan Yang, Lin Ye, Mohsen Guizani, John S. Thompson
+    conference_short: TITS
+    conference: IEEE Transactions on Intelligent Transportation Systems <strong>(TITS)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/document/10023991
+    bibtex: _data/TITS_23_bib.txt
+    image: ./assets/img/TITS_23.png
+
+  - title: "A V2X-Integrated Positioning Methodology in Ultradense Networks"
+    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    conference_short: IOTJ
+    conference: IEEE Internet of Things Journal <strong>(IOTJ)</strong>, 2021.
+    pdf: https://ieeexplore.ieee.org/document/10806668
+    bibtex: _data/MNET_25_bib.txt
+    image: ./assets/img/MNET_25.png
+
+    
+    - title: "UAV Swarm-Enabled Localization in Isolated Region: A Rigidity-Constrained Deployment Perspective"
+    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
+    conference_short: IOTJ
+    conference: IEEE Internet of Things Journal <strong>(IOTJ)</strong>, 2021.
     pdf: https://ieeexplore.ieee.org/document/10806668
     bibtex: _data/MNET_25_bib.txt
     image: ./assets/img/MNET_25.png
