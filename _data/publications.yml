@@ -5,7 +5,7 @@ main:
     conference_short: Bulletion of NSFC
     conference: Bulletion of National Natural Science Foundation of China <strong>(Bulletion of NSFC)</strong>, 2025.
     pdf: https://www.nsfc.gov.cn/csc/20345/20348/pdf/2025//202502-250-262.pdf
-    bibtex: ./NSFC25.txt
+    bibtex: ./NSFC25_bib.txt
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
 
