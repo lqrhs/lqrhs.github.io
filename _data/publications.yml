@@ -7,7 +7,12 @@ main:
     pdf: https://www.nsfc.gov.cn/csc/20345/20348/pdf/2025//202502-250-262.pdf
     image: ./assets/img/NSFC_B_25.png
     
-
+- title: Prospective UAV-assisted Positioning Architecture and Technologies for 6G Network Edge
+    authors: <strong>Qirui Liu</strong>, Rongke Liu, Chenren Xu
+    conference_short: MNET
+    conference: IEEE Network <strong>(MNET)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/document/10806668
+    image: ./assets/img/MNET_25.png
 
   - title: Key Technologies, Challenges and Development Suggestions of Sensing-connectivity Integration in Physical Internet
     authors: Chenren Xu, <strong>Qirui Liu*</strong> (*Co-first authors), Xuanzhe Liu
