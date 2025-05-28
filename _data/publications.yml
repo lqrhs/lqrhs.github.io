@@ -37,8 +37,8 @@ main:
     
     - title: "UAV Swarm-Enabled Localization in Isolated Region: A Rigidity-Constrained Deployment Perspective"
     authors: <strong>Qirui Liu</strong>, Rongke Liu, Zijie Wang, John S. Thompson
-    conference_short: IOTJ
-    conference: IEEE Internet of Things Journal <strong>(IOTJ)</strong>, 2021.
+    conference_short: WCL
+    conference: IEEE Wireless Communications Letters <strong>(WCL)</strong>, 2021.
     pdf: https://ieeexplore.ieee.org/document/9462549
     bibtex: ./_data/WCL_21_bib.txt
     image: ./assets/img/WCL_21.png
