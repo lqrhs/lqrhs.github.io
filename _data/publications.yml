@@ -14,5 +14,5 @@ main:
     conference_short: MNET
     conference: IEEE Network <strong>(MNET)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/document/10806668
-    bibtex: ./_data/NSFC25_bib.txt
+    bibtex: ./_data/MNET_25_bib.txt
     image: ./assets/img/teaser_example.png
