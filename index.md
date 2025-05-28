@@ -26,7 +26,7 @@ For more details, please refer to my CV.
 
 ## Honor & Award
 
-- **[May. 2025]** Our paper about Sensing-connectivity Integration in Physical Internet is accepted to Bulletin of NSFC 2025.
+- **[2024]** Excellent Graduates in Beihang University
 - **[2021]** 2nd Prize of World 5G Convention Conference-5G Application Design in Guangdong-Hong Kong-Macao Greater Bay Area
 - **[2020]** 1st Prize of Three Minute Scientific Research English Speech Competition Beihang University
 - **[2019]** Excellent Graduates and Graduation Projects
