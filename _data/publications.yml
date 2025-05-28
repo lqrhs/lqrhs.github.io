@@ -5,7 +5,7 @@ main:
     conference_short: Bulletion of NSFC
     conference: Bulletion of National Natural Science Foundation of China <strong>(Bulletion of NSFC)</strong>, 2025.
     pdf: https://www.nsfc.gov.cn/csc/20345/20348/pdf/2025//202502-250-262.pdf
-    bibtex: ./_data/NSFC25_bib.txt
+    bibtex: _data/NSFC25_bib.txt
     image: ./assets/img/NSFC_B_25.png
     
 
@@ -14,5 +14,5 @@ main:
     conference_short: MNET
     conference: IEEE Network <strong>(MNET)</strong>, 2025.
     pdf: https://ieeexplore.ieee.org/document/10806668
-    bibtex: ./_data/MNET_25_bib.txt
+    bibtex: _data/MNET_25_bib.txt
     image: ./assets/img/teaser_example.png
