@@ -12,7 +12,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://dl.acm.org/journal/imwut"><autocolor>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (PACM IMWUT)</autocolor></a></li>
-  <li><a href="https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10640259&punumber=49/"><autocolor>IEEE Journal on Selected Areas in Communications</autocolor></a></li>
+  <li><a href="https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=10640259&punumber=49/"><autocolor>IEEE Journal on Selected Areas in Communications (JSAC)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7693"><autocolor>IEEE Transactions on Wireless Communications (TWC)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=25"><autocolor>IEEE Transactions on Vehicular Technology (TVT)</autocolor></a></li>
 </ul>
