@@ -24,7 +24,12 @@ For more details, please refer to my CV.
 {% include_relative _includes/services.md %}
 
 
-{% include_relative _includes/Honor_Award.md %}
+## Honor & Award
+
+- **[May. 2025]** Our paper about Sensing-connectivity Integration in Physical Internet is accepted to Bulletin of NSFC 2025.
+- **[Apr. 2025]** Invited to give talk about UAV-assisted Positioning in The 18th China Electronics &information Conference, Chengdu, China, 2025. 
+- **[2019]** Excellent Graduates and Graduation Projects, awarded by Beijing Municipal Education Commission
+- **[2018]** China National Scholarship, awarded by Chinese Ministry of Education
 
 
 
