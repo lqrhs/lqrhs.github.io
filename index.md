@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am currently a Boya postdoctoral fellow in the School of Computer Science, Peking University (PKU), under the supervision of Professor [Chenren Xu](https://soar.group/chenren/). I received Ph.D. degree in 2024 from School of Electronic and Information Engineering, Beihang University (BUAA), under the supervision of Professor Rongke Liu. Earlier, I earned my B.E. degree in 2019 from University of Science and Technology Beijing (USTB). My current research interests include cellular system, LLM-based scheduling and the applications of these technologies to low-altitude unmanned aerial vehicles. 
-For more details, please refer to my CV. 
+For more details, please refer to my [CV](https://github.com/lqrhs/lqrhs.github.io/blob/main/assets/files/resume_Qirui_EN.pdf). 
 
 ## Research Interests
 
