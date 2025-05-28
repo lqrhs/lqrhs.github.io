@@ -1,11 +1,10 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
+  - title: Key Technologies, Challenges and Development Suggestions of Sensing-connectivity Integration in Physical Internet
+    authors: Chenren Xu, <strong>Qirui Liu*</strong> (*Co-first authors), Xuanzhe Liu
     conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: Bulletion of National Natural Science Foundation of China <strong>(MICCAI)</strong>, 2025.
     pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/teaser_example_2.png
     notes: Early Accept
