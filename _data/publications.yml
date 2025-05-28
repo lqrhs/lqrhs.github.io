@@ -16,26 +16,24 @@ main:
     image: ./assets/img/MNET_25.png
 
 
-   - title: "Management of Positioning Functions in Cellular Networks for Time-Sensitive Transportation Applications"
+  - title: "Management of Positioning Functions in Cellular Networks for Time-Sensitive Transportation Applications"
     authors: <strong>Qirui Liu</strong>, Rongke Liu, Yang Zhang, Yanli Yuan, Zijie Wang, Haolan Yang, Lin Ye, Mohsen Guizani, John S. Thompson
     conference_short: TITS
     conference: IEEE Transactions on Intelligent Transportation Systems <strong>(TITS)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/document/10023991
     image: ./assets/img/TITS_23.png
 
-  - title: "A V2X-Integrated Positioning Methodology in Ultradense Networks"
+ - title: "A V2X-Integrated Positioning Methodology in Ultradense Networks"
     authors: <strong>Qirui Liu</strong>, Rongke Liu, Zijie Wang, Lincong Han, John S. Thompson
     conference_short: IOTJ
     conference: IEEE Internet of Things Journal <strong>(IOTJ)</strong>, 2021.
     pdf: https://ieeexplore.ieee.org/document/9415628
-    bibtex: ./_data/MNET_25_bib.txt
     image: ./assets/img/IOTJ_21.png
 
     
-    - title: "UAV Swarm-Enabled Localization in Isolated Region: A Rigidity-Constrained Deployment Perspective"
+ - title: "UAV Swarm-Enabled Localization in Isolated Region: A Rigidity-Constrained Deployment Perspective"
     authors: <strong>Qirui Liu</strong>, Rongke Liu, Zijie Wang, John S. Thompson
     conference_short: WCL
     conference: IEEE Wireless Communications Letters <strong>(WCL)</strong>, 2021.
     pdf: https://ieeexplore.ieee.org/document/9462549
-    bibtex: ./_data/WCL_21_bib.txt
     image: ./assets/img/WCL_21.png
