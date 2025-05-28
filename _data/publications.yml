@@ -5,17 +5,14 @@ main:
     conference_short: Bulletion of NSFC
     conference: Bulletion of National Natural Science Foundation of China <strong>(Bulletion of NSFC)</strong>, 2025.
     pdf: https://www.nsfc.gov.cn/csc/20345/20348/pdf/2025//202502-250-262.pdf
-    bibtex: ./NSFC25_bib.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+    bibtex: ./_data/NSFC25_bib.txt
+    image: ./assets/img/NSFC_B_25.png
+    
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
+  - title: "Prospective UAV-assisted Positioning Architecture and Technologies for 6G Network Edge"
     authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
+    conference_short: MNET
+    conference: IEEE Network <strong>(MNET)</strong>, 2025.
+    pdf: https://ieeexplore.ieee.org/document/10806668
+    bibtex: ./_data/NSFC25_bib.txt
     image: ./assets/img/teaser_example.png
