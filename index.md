@@ -20,8 +20,8 @@ For more details, please refer to my CV.
 - **[Apr. 2025]** Invited to give talk about UAV-assisted Positioning in The 18th China Electronics &information Conference, Chengdu, China, 2025. 
 - **[Mar. 2025]** Our paper about UAV-assisted Positioning for 6G Network Edge is accepted to IEEE MNET 2025.
 - **[Sept. 2024]** I join School of Computer Science, PKU, as a Boya Postdoctoral Fellow.
-## - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+include_relative _includes/services.md
